@@ -1,0 +1,5 @@
+---
+applications:
+ - name: GetStartedNode-app-jatv
+   random-route: true
+   memory: 256M
